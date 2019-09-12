@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["wolwer1ne"]
   spec.email         = ["wolwerine@yandex.ru"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{TODO: Solves quadratic equations}
+  spec.description   = %q{TODO: Gem example for mmcs students.}
+  spec.homepage      = "edu.mmcs.sfedu.ru"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
