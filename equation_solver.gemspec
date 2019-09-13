@@ -8,16 +8,14 @@ Gem::Specification.new do |spec|
   spec.authors       = ["wolwer1ne"]
   spec.email         = ["wolwerine@yandex.ru"]
 
-  spec.summary       = %q{TODO: Solves quadratic equations}
-  spec.description   = %q{TODO: Gem example for mmcs students.}
-  spec.homepage      = "edu.mmcs.sfedu.ru"
+  spec.summary       = %q{Solves quadratic equations}
+  spec.description   = %q{Gem example for mmcs students.}
+  spec.homepage      = "https://github.com/Wolwer1nE/equation_solver"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
-
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/Wolwer1nE/equation_solver"
+
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
